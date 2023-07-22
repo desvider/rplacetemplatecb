@@ -1,0 +1,17 @@
+{
+    "contact": "dc: @desvider",
+    "templates": [
+        {
+            "name": "carnical",
+            "sources": [
+                "https://media.discordapp.net/attachments/1131744408103030916/1132309146046312560/image.png?width=25&height=62"
+            ],
+            "x": 1117,
+            "y": 763
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": [
+    ]
+}
