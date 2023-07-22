@@ -1,0 +1,17 @@
+{
+    "contact": "Só fiz a template não fiz a arte \n Dc: Desvider",
+    "templates": [
+        {
+            "name": "carnical",
+            "sources": [
+                "https://media.discordapp.net/attachments/1131986139331440712/1132363635285569658/teste44.png?width=28&height=37"
+            ],
+            "x": 302,
+            "y": 209
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": [
+    ]
+}
