@@ -1,0 +1,17 @@
+{
+    "contact": "dc: @desvider",
+    "templates": [
+        {
+            "name": "arte cellbit",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1131598080349851788/1132323474803789864/lol.png"
+            ],
+            "x": 1601,
+            "y": 862
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": [
+    ]
+}
